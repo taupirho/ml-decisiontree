@@ -1,4 +1,4 @@
-##Decision trees in data science
+# Decision trees in data science
 
 Just a bit of fun, but a subject close to my heart since I’ve been looking for work the last few months without success. I’m not even talking about getting job offers, I mean I can’t even get an interview. Hmmm …. wonder why?
 
@@ -8,6 +8,7 @@ The example shows what the likely hood of getting a job based on certain criteri
 
 ```
 Years Experience|Age|Employed?|Previous employers |Level of Education |Hired
+----------------|---|---------|-------------------|-------------------|-----
 25	        |56 |N	      |4                  |BSc	              |N
 0	        |26 |Y	      |0	          |BSc	              |Y
 28	        |55 |N	      |1	          |MSc	              |N
