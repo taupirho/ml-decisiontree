@@ -1,4 +1,4 @@
-# Decision trees in data science
+# Using a decision tree to predict if someone will get hired
 
 Just a bit of fun, but a subject close to my heart since I’ve been looking for work the last few months without success. I’m not even talking about getting job offers, I mean I can’t even get an interview. Hmmm …. wonder why?
 
