@@ -24,4 +24,4 @@ Years Experience|Age|Employed?|Previous employers |Level of Education |Hired
 0	        |20 |Y	      |0	          |PhD	              |Y
 ```
 
-So we’re trying to predict whether a person will get a job based on their age, experience, education level and number of previous employers. The attached python notebook will demonstrate the use of decision trees using scikitlearn and some basic numpy/panda/dataframe operations.
+So we’re trying to predict whether a person will get a job based on their age, experience, education level and number of previous employers. The attached jupyter/python notebook will demonstrate the use of decision trees using scikitlearn and some basic numpy/panda/dataframe operations.
