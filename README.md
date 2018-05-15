@@ -1,6 +1,6 @@
 # Using a decision tree to predict if someone will get hired
 
-Just a bit of fun, but a subject close to my heart since I’ve been looking for work the last few months without success. I’m not even talking about getting job offers, I mean I can’t even get an interview. Hmmm …. wonder why?
+Just a bit of fun, but a subject close to my heart since I’ve been looking for work the last few months without success. Hmmm …. wonder why, might be a cluse here?
 
 Decision trees and their use is one of the easier concepts in data science for people to get their heads around. It comes down to selecting an output based on a series of inputs – much like a series of nested IF-THEN-ELSE statements in a programming language.
 
